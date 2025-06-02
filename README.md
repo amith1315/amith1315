@@ -29,7 +29,7 @@
 <div><h3>Lets connect 👨🏻‍💻✨ </h3></div>
   
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/amith-sahani/)
-[![X](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](https://mail.google.com/sahaniamith5.as@gmail.com)
+[![X](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:sahaniamith5.as@gmail.com)
 
 <img src="https://raw.githubusercontent.com/solomonjdavid001/solomonjdavid001/output/snake.svg" alt="Snake animation" />
 
