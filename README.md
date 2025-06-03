@@ -18,7 +18,7 @@
 
 - 🚀 Never stop creating new ideas.
 
-- 📫 How to reach me **sahaniamith5.as@gmail.com@gmail.com**
+- 📫 How to reach me **sahaniamith5.as@gmail.com**
 
 
 ### 💻 MY TECH STACK:
